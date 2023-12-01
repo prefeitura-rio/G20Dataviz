@@ -431,6 +431,9 @@
 		.book-cover .byline {
 			font-size: var(--24px);
 		}
+		#book{
+			height: 130vmin;
+		}
 	}
 	@media only screen and (min-width: 600px) and (min-height: 800px) {
 		.book-cover .byline {

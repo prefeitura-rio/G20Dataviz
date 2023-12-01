@@ -59,9 +59,11 @@
 </section>
 
 <style>
+    
     section {
         padding: 3rem 0;
     }
+    
     #raunchiness {
         background-image: linear-gradient(var(--romance-bg-pink) 0%, var(--romance-bg-blue) 50%, var(--romance-bg-pink) 100%);
     }
@@ -79,9 +81,7 @@
 		border-bottom: none;
 		pointer-events: auto;
 	}
-    :global(#raunchiness a) {
-		background-image: linear-gradient(180deg,transparent 0,var(--romance-blue-light) 0);
-	}
+    
 	:global(#illustration a) {
 		background-image: linear-gradient(180deg,transparent 0,var(--romance-yellow-light) 0);
 	}
