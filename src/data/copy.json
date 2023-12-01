@@ -25,16 +25,7 @@
       "value": "<span class=initial-cap>N</span>esta linha do tempo você conhecerá os principais encontros e eventos, e a história de decisões cruciais que se desenrolaram em suas ruas. Juntos, embarcaremos em uma jornada que revela o Rio de Janeiro como um ponto de convergência onde a história local se entrelaça com os destinos globais.<br><br> O Escritório de Dados da Prefeitura da Cidade do Rio de Janeiro em parceria com o Comitê do G20 convidam você a percorrer esta linha do tempo, que mostra como o Rio sempre foi a capital do Mundo."
     }
   ],
-  "lookBackOverflow_750": [
-    {
-      "type": "text",
-      "value": "<span class=initial-cap>I</span>"
-    },
-    {
-      "type": "text",
-      "value": "<span class=initial-cap>J</span>"
-    }
-  ],
+ 
   "page1_650": [
     {
       "type": "text",
@@ -47,16 +38,7 @@
       "value": "<span class=initial-cap>N</span>esta linha do tempo você conhecerá os principais encontros e eventos, e a história de decisões cruciais que se desenrolaram em suas ruas. Juntos, embarcaremos em uma jornada que revela o Rio de Janeiro como um ponto de convergência onde a história local se entrelaça com os destinos globais. <br><br>O Escritório de Dados da Prefeitura da Cidade do Rio de Janeiro em parceria com o Comitê do G20 convidam você a percorrer esta linha do tempo, que mostra como o Rio sempre foi a capital do Mundo."
     }
   ],
-  "lookBackOverflow_650": [
-    {
-      "type": "text",
-      "value": "<span class=initial-cap>M</span>"
-    },
-    {
-      "type": "text",
-      "value": "<span class=initial-cap>N</span>"
-    }
-  ],
+  
   "page1_600": [
     {
       "type": "text",
@@ -67,20 +49,6 @@
     {
       "type": "text",
       "value": "<span class=initial-cap>N</span>esta linha do tempo você conhecerá os principais encontros e eventos, e a história de decisões cruciais que se desenrolaram em suas ruas. Juntos, embarcaremos em uma jornada que revela o Rio de Janeiro como um ponto de convergência onde a história local se entrelaça com os destinos globais.<br><br> O Escritório de Dados da Prefeitura da Cidade do Rio de Janeiro em parceria com o Comitê do G20 convidam você a percorrer esta linha do tempo, que mostra como o Rio sempre foi a capital do Mundo."
-    }
-  ],
-  "lookBackOverflow_600": [
-    {
-      "type": "text",
-      "value": "<span class=initial-cap>Q</span>"
-    },
-    {
-      "type": "text",
-      "value": "<span class=initial-cap>R</span>"
-    },
-    {
-      "type": "text",
-      "value": "<span class=initial-cap>S</span>"
     }
   ],
   "page1_else": [
@@ -636,9 +604,17 @@
         "2024"
       ],
       "highlightBooks": [],
-      "scrollToId": "20241",
+      "scrollToId": "202411",
       "titulo": "G20",
       "text": "O Rio será a capital do mundo em 2024. Escolhida como sede para a cúpula do G20, a cidade receberá o grupo composto pelas 19 maiores economias do mundo e pela União Europeia. Responsável por 85% do PIB e mais de 75% do comércio global, os principais chefes de Estado do planeta debaterão em terras cariocas o futuro da governança global e do desenvolvimento sustentável. Estima-se que mais de 100 outros eventos sejam organizados ao longo do ano por grupos de engajamento, startups, think tanks e universidades.",
+      "kicker": "2011–2013"
+    },
+    {
+      "highlightYears": [
+        "2024"
+      ],
+      "highlightBooks": [],
+      "scrollToId": "202421",
       "kicker": "2011–2013"
     }
   ]

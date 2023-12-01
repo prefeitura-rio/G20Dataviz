@@ -16,7 +16,7 @@ year,id,credits
 1942.2,194221,"Foto 3 - Autoridades presentes na Conferência do Rio (Autor desconhecido)."
 1947,19471,"Foto 1 - Os presidentes Truman (em pé, discursando) e Dutra (sentado, à direita), em sessão da Conferência realizada no Palácio Tiradentes (Auto desconhecido)"
 1947.1,194711,"Foto 2 - Página de jornal sobre o evento (Gazeta de Notícias)."
-1947.2,194721,"Sem foto"
+1947.2,194721,"Autor desconhecido."
 1950,19501,"Foto 1 - Torcida no Maracanã (Arquivo Geral da Cidade do Rio de Janeiro). "
 1950.1,195011,"Foto 2 - Final da Copa do Mundo (Arquivo Geral da Cidade do Rio de Janeiro)."
 1950.2,195021,"Foto 3 - Placar da decisão entre Brasil e Uruguai, no Maracanã (Arquivo Geral da Cidade do Rio de Janeiro)."
@@ -56,4 +56,7 @@ year,id,credits
 2023,20231,"Foto 1 - Prefeito da cidade do Rio de Janeiro, Eduardo Paes, discursa na abertura do Web Summit Rio 2023 (Vaughn Ridley/Web Summit Rio via Sportsfile)."
 2023.1,202311,"Foto 2 - Participantes chegam ao Riocentro, local onde foi realizado o evento (Eóin Noonan/Web Summit Rio via Sportsfile)."
 2023.2,202321,"Foto 3 - Participantes durante a noite de abertura da Web Summit Rio 2023 no Riocentro (Stephen McCarthy/Web Summit Rio via Sportsfile)."
-2024,20241
+2024,20241,"Foto 1 - Seminário Internacional "Thinking 20: a Global Order for Tomorrow" (Marcos de Paula/Prefeitura do Rio)."
+2024.1,202411,"Foto 2 - Símbolo Oficial da Cidade do Rio de Janeiro no G20."
+2024.2,202421,"Foto 3 - Comitê da Cidade do Rio de Janeiro (Marco Antonio Lima/Prefeitura do Rio)."
+
